@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bathing Sites</string>
+    <string name="bath_info">An icon picture representing the bath app.</string>
+    <string name="bathing_sites">bathing sites</string>
+    <string name="standard_bath_sites">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="add_new_bath_site">Add new bath site</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="adress">Adress</string>
+    <string name="grade">Grade:</string>
+    <string name="water_temp">Water temp</string>
+    <string name="date_for_temp">Date for temp</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
